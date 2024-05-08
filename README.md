@@ -24,14 +24,10 @@ To run the movie recommendation system locally, follow these steps:
     cd movie
     ```
 
-
-2. Access the recommendation system through the provided URL.
-
-       https://moviefinding.netlify.app/
-
 ## Deployed Link
 
 The movie recommendation system is deployed and accessible at the following link:
+            https://moviefinding.netlify.app/
 
 ## License
 
